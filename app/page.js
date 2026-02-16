@@ -34,7 +34,7 @@ setServices(data)
 
 return (
 
-<div className="min-h-screen bg-gradient-to-b from-orange-50 to-white">
+<div className="min-h-screen bg-gradient-to-b from-orange-50 to-white px-3 sm:px-0">
 
 {/* Navbar */}
 
