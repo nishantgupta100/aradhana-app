@@ -82,11 +82,11 @@ Verified pandits for every occasion
 <div key={service.id}
 className="bg-white rounded-xl shadow-md hover:shadow-xl transition p-6 border-t-4 border-orange-500">
 
-<h3 className="text-xl font-semibold text-gray-900">
+<h3 className="text-xl font-semibold text-gray-900 leading-tight">
 {service.name}
 </h3>
 
-<p className="text-gray-500 mt-1">
+<p className="text-gray-600 text-sm">
 {service.category}
 </p>
 
