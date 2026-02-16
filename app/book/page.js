@@ -66,34 +66,34 @@ return (
 
 <input
 placeholder="Your Name"
-className="border p-3 rounded w-full mb-4"
+className="border p-3 rounded w-full mb-4 text-black placeholder-gray-400"
 onChange={(e)=>setName(e.target.value)}
 />
 
 
 <input
 placeholder="Phone"
-className="border p-3 rounded w-full mb-4"
+className="border p-3 rounded w-full mb-4 text-black placeholder-gray-400"
 onChange={(e)=>setPhone(e.target.value)}
 />
 
 
 <input
 placeholder="Address"
-className="border p-3 rounded w-full mb-4"
+className="border p-3 rounded w-full mb-4 text-black placeholder-gray-400"
 onChange={(e)=>setAddress(e.target.value)}
 />
 
 
 <input
 type="date"
-className="border p-3 rounded w-full mb-4"
+className="border p-3 rounded w-full mb-4 text-black placeholder-gray-400"
 onChange={(e)=>setDate(e.target.value)}
 />
 
 
 <select
-className="border p-3 rounded w-full mb-6"
+className="border p-3 rounded w-full mb-4 text-black placeholder-gray-400"
 onChange={(e)=>setTime(e.target.value)}
 >
 
